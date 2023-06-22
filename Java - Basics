@@ -1,0 +1,20 @@
+public class Sameer {
+public static void main (Strings[] args){
+System.out.println("Hello");
+}// main method
+} // class
+Description
+=================================================
+class Sameer = class name Starts with Capital Letter
+public = access modifier
+static = key word
+void = return type - which means it does not return any value
+main = method name
+System = pre defined class
+out= standardout put - static field
+String [] args = command line Arrguements -[]- it indicates array
+Note
+=================================================
+1.Class name start with Capital Letter
+2. String = s should be always capital
+3.in System.out.println("Hello world"); = S should be capital
